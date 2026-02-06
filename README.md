@@ -41,6 +41,15 @@ massive-scalar/
 
 The data files contain eigenvalues computed at 180, 190, and 200 digits of precision, organized by mass parameter (mu) and angular momentum quantum number (L).
 
+## Analysing the data
+
+The raw eigenvalue files in the `data/` directory can be loaded directly into **QNM Analyser**, an interactive web dashboard for exploring convergence of quasi-normal mode eigenvalues computed at different numerical resolutions.
+
+- Source code: <https://github.com/dutykh/qnm-analyser/>
+- Live instance: <https://www.qnm-anal.denys-dutykh.com/>
+
+For each parameter pair (mu, L), upload the three resolution files (`eigs_180.dat`, `eigs_190.dat`, `eigs_200.dat`) into QNM Analyser to automatically identify converged QNMs, classify them (general, purely imaginary, or purely real), and export publication-ready plots and reports.
+
 ## License
 
 This project is distributed under the [GNU Lesser General Public License v2.1](LICENSE). See the `LICENSE` file for details.
