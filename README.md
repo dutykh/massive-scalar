@@ -13,6 +13,8 @@ by Davide Batic, Anna Chrysostomou, Alan Cornell, and Denys Dutykh — *Work in 
 
 Here we collect the main routines used in our computations along with the raw unprocessed results.
 
+![QNM illustration](assets/QNM_illustration.png)
+
 ## Repository structure
 
 ```
@@ -20,15 +22,19 @@ massive-scalar/
 ├── LICENSE
 ├── README.md
 ├── data/                          — Raw computational results
-│   ├── mu_0_L_0/results/          — mu = 0, L = 0
+│   ├── mu_0_L_0/raw/             — mu = 0, L = 0
 │   │   ├── eigs_180.dat
 │   │   ├── eigs_190.dat
 │   │   └── eigs_200.dat
-│   ├── mu_0_L_1/results/          — mu = 0, L = 1
+│   ├── mu_0_L_1/raw/             — mu = 0, L = 1
 │   │   ├── eigs_180.dat
 │   │   ├── eigs_190.dat
 │   │   └── eigs_200.dat
-│   └── mu_0_L_2/results/          — mu = 0, L = 2
+│   ├── mu_0_L_2/raw/             — mu = 0, L = 2
+│   │   ├── eigs_180.dat
+│   │   ├── eigs_190.dat
+│   │   └── eigs_200.dat
+│   └── mu_0_1_L_0/raw/           — mu = 0.1, L = 0
 │       ├── eigs_180.dat
 │       ├── eigs_190.dat
 │       └── eigs_200.dat
