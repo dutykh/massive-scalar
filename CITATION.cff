@@ -1,0 +1,55 @@
+# Citation metadata for the repository accompanying the article
+#   D. Batic, A. Chrysostomou, A. S. Cornell and D. Dutykh,
+#   Quasinormal-mode analysis of a massive scalar field in a Schwarzschild
+#   background via the spectral method, Phys. Rev. D 114, 065020 (2026).
+#
+# Authors: Davide Batic (Khalifa University of Science and Technology,
+#          Abu Dhabi, UAE)
+#          Anna Chrysostomou (LPTHE, Sorbonne Universite, CNRS, Paris, France)
+#          Alan S. Cornell (University of Johannesburg, Auckland Park,
+#          South Africa)
+#          Dr. Denys Dutykh (Khalifa University of Science and Technology,
+#          Abu Dhabi, UAE)
+
+cff-version: 1.2.0
+title: "Massive scalar field in a Schwarzschild background: routines and quasinormal-mode data"
+message: "If you use the routines or the data of this repository, please cite the article below."
+type: software
+license: LGPL-2.1
+repository-code: "https://github.com/dutykh/massive-scalar"
+authors:
+  - family-names: Batic
+    given-names: Davide
+    affiliation: "Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+  - family-names: Chrysostomou
+    given-names: Anna
+    affiliation: "Laboratoire de Physique Theorique et Hautes Energies (LPTHE), Sorbonne Universite, CNRS, Paris, France"
+  - family-names: Cornell
+    given-names: Alan S.
+    affiliation: "Department of Physics, University of Johannesburg, Auckland Park, South Africa"
+  - family-names: Dutykh
+    given-names: Denys
+    affiliation: "Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+preferred-citation:
+  type: article
+  title: "Quasinormal-mode analysis of a massive scalar field in a Schwarzschild background via the spectral method"
+  authors:
+    - family-names: Batic
+      given-names: Davide
+    - family-names: Chrysostomou
+      given-names: Anna
+    - family-names: Cornell
+      given-names: Alan S.
+    - family-names: Dutykh
+      given-names: Denys
+  journal: "Physical Review D"
+  publisher:
+    name: "American Physical Society"
+  volume: 114
+  issue: 6
+  number: "065020"
+  pages: 22
+  year: 2026
+  month: 9
+  doi: "10.1103/kv2k-1d3m"
+  url: "https://link.aps.org/doi/10.1103/kv2k-1d3m"

@@ -1,6 +1,11 @@
 % Polynomial eigenvalue solver for massive scalar QNMs on Schwarzschild
 % Author: Dr. Denys Dutykh (Khalifa University of Science and Technology,
 %         Abu Dhabi, UAE)
+% Reference: D. Batic, A. Chrysostomou, A. S. Cornell and D. Dutykh,
+%            Quasinormal-mode analysis of a massive scalar field in a
+%            Schwarzschild background via the spectral method,
+%            Phys. Rev. D 114(6), 065020 (2026).
+%            https://doi.org/10.1103/kv2k-1d3m
 
 close
 clear

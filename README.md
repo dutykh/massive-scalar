@@ -2,16 +2,22 @@
 
 Repository to accompany our paper:
 
-**Quasinormal modes analysis of a massive scalar field in a Schwarzschild background via the Spectral Method**
+**Quasinormal-mode analysis of a massive scalar field in a Schwarzschild background via the spectral method**
 
-by Davide Batic, Anna Chrysostomou, Alan S. Cornell, and Denys Dutykh — *Preprint, April 2026*
+by Davide Batic, Anna Chrysostomou, Alan S. Cornell, and Denys Dutykh
+
+*Physical Review D* **114**, 065020 (2026), 22 pages. The published article is available at
+
+<https://doi.org/10.1103/kv2k-1d3m>
 
 - Davide Batic — Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, UAE
 - Anna Chrysostomou — Laboratoire de Physique Théorique et Hautes Énergies (LPTHE), Sorbonne Université, CNRS, Paris, France
 - Alan S. Cornell — Department of Physics, University of Johannesburg, Auckland Park, South Africa
 - Denys Dutykh — Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, UAE
 
-Here we collect the main routines used in our computations along with the raw unprocessed results.
+Here we collect the main routines used in our computations along with the raw unprocessed results. This material is openly available at
+
+<https://github.com/dutykh/massive-scalar/>
 
 ![QNM illustration](assets/QNM_illustration.png)
 
@@ -42,7 +48,7 @@ massive-scalar/
 ├── python/                        — Independent Python cross-checks (mpmath)
 │   ├── 04-massive_mode_benchmark.py — Leaver/continued-fraction benchmark
 │   └── 05-potential_check.py        — high-precision effective-potential check
-└── pdf/                           — Paper preprint
+└── pdf/                           — Author version of the article (April 2026)
     └── DB-AC2-DD-QNMsMassiveScalarField-2026.pdf
 ```
 
@@ -190,13 +196,33 @@ This project is distributed under the [GNU Lesser General Public License v2.1](L
 
 ## Citation
 
-If you use the codes, routines, or data provided in this repository, please acknowledge our work by citing the following paper:
+If you use the codes, routines, or data provided in this repository, please acknowledge our work by citing the published article:
+
+D. Batic, A. Chrysostomou, A. S. Cornell and D. Dutykh, *Quasinormal-mode analysis
+of a massive scalar field in a Schwarzschild background via the spectral method*,
+Phys. Rev. D **114**, 065020 (2026).
 
 ```bibtex
-@article{Batic2026,
-  author  = {Batic, Davide and Chrysostomou, Anna and Cornell, Alan S. and Dutykh, Denys},
-  title   = {Quasinormal modes analysis of a massive scalar field in a {S}chwarzschild background via the {S}pectral {M}ethod},
-  year    = {2026},
-  note    = {Preprint, April 2026}
+@article{kv2k-1d3m,
+  title = {Quasinormal-mode analysis of a massive scalar field in a Schwarzschild background via the spectral method},
+  author = {Batic, Davide and Chrysostomou, Anna and Cornell, Alan S. and Dutykh, Denys},
+  journal = {Phys. Rev. D},
+  volume = {114},
+  issue = {6},
+  pages = {065020},
+  numpages = {22},
+  year = {2026},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/kv2k-1d3m},
+  url = {https://link.aps.org/doi/10.1103/kv2k-1d3m}
 }
 ```
+
+The article of record is at
+
+<https://doi.org/10.1103/kv2k-1d3m>
+
+and the repository that accompanies it is at
+
+<https://github.com/dutykh/massive-scalar/>

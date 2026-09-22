@@ -8,6 +8,11 @@
 %          South Africa)
 %          Dr. Denys Dutykh (Khalifa University of Science and Technology,
 %          Abu Dhabi, UAE)
+% Reference: D. Batic, A. Chrysostomou, A. S. Cornell and D. Dutykh,
+%            Quasinormal-mode analysis of a massive scalar field in a
+%            Schwarzschild background via the spectral method,
+%            Phys. Rev. D 114(6), 065020 (2026).
+%            https://doi.org/10.1103/kv2k-1d3m
 % Last modified: 2 August 2026
 %
 % The original routine mapped the uniformising eigenvalue Lambda to Omega and
