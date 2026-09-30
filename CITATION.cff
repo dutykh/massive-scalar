@@ -1,7 +1,8 @@
 # Citation metadata for the repository accompanying the article
 #   D. Batic, A. Chrysostomou, A. S. Cornell and D. Dutykh,
 #   Quasinormal-mode analysis of a massive scalar field in a Schwarzschild
-#   background via the spectral method, Phys. Rev. D 114, 065020 (2026).
+#   background via the spectral method, Phys. Rev. D 114, 065020 (2026);
+#   preprint arXiv:2609.37942 [gr-qc].
 #
 # Authors: Davide Batic (Khalifa University of Science and Technology,
 #          Abu Dhabi, UAE)
@@ -53,3 +54,7 @@ preferred-citation:
   month: 9
   doi: "10.1103/kv2k-1d3m"
   url: "https://link.aps.org/doi/10.1103/kv2k-1d3m"
+  identifiers:
+    - type: other
+      value: "arXiv:2609.37942"
+      description: "Preprint on arXiv (gr-qc), https://arxiv.org/abs/2609.37942"

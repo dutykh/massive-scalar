@@ -10,6 +10,8 @@ by Davide Batic, Anna Chrysostomou, Alan S. Cornell, and Denys Dutykh
 
 <https://doi.org/10.1103/kv2k-1d3m>
 
+The preprint is openly accessible on arXiv as [arXiv:2609.37942 [gr-qc]](https://arxiv.org/abs/2609.37942).
+
 - Davide Batic — Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, UAE
 - Anna Chrysostomou — Laboratoire de Physique Théorique et Hautes Énergies (LPTHE), Sorbonne Université, CNRS, Paris, France
 - Alan S. Cornell — Department of Physics, University of Johannesburg, Auckland Park, South Africa
@@ -215,7 +217,10 @@ Phys. Rev. D **114**, 065020 (2026).
   month = {Sep},
   publisher = {American Physical Society},
   doi = {10.1103/kv2k-1d3m},
-  url = {https://link.aps.org/doi/10.1103/kv2k-1d3m}
+  url = {https://link.aps.org/doi/10.1103/kv2k-1d3m},
+  eprint = {2609.37942},
+  archivePrefix = {arXiv},
+  primaryClass = {gr-qc}
 }
 ```
 
