@@ -34,7 +34,7 @@ keywords:
   - matlab
   - python
   - mathematica
-  - research-code
+  - reproducible-research
 abstract: >-
   Routines and raw spectra for the quasinormal modes of a massive scalar field around a Schwarzschild black hole. The
   two-sheeted relation between frequency and wave number at infinity is uniformised by a Joukowski map, and a
